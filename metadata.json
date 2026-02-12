@@ -1,0 +1,7 @@
+{
+  "name": "Sandanell Global Portal",
+  "description": "A comprehensive corporate portal for Sandanell Global, featuring business intelligence, logistics solutions, and lifestyle retail management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
